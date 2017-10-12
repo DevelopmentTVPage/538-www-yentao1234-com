@@ -1,0 +1,15 @@
+{
+    "title": "CONTENT Check",
+    "baseURL": "https:\/\/www.yentao1234.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1759035",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "yentao1234.com"
+    }
+}
